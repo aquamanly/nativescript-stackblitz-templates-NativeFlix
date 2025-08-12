@@ -1,6 +1,6 @@
 // src/services/flick.service.ts
 
-import { FlickModel } from '../models';
+import { FlickModel } from '../models/flick.model';
 
 class _FlickService {
   private flicks: FlickModel[] = [
